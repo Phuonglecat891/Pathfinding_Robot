@@ -1,0 +1,19 @@
+Project 1: Robot tìm đường
+Thư viện ngoài: keyboard 0.13.4		https://pypi.org/project/keyboard/
+
+
+Hướng dẫn sử dụng
+	---Map 1,2,3:
+	Chạy file main.py
+	Chọn map và thuật toán muốn tìm đường
+	
+	---Moving Object:
+	Mặc định sẽ chọn map3.txt là input
+	Chạy file main.py
+	Chọn thuật toán
+	Nhấn ESC khi muốn kết thúc
+	Lưu ý, chương trình sẽ hết vòng lặp while rồi mới nhận input từ divice nên có thể không nhận ESC lập tức.
+
+Thay đổi map
+	Mở file map1.txt (map2.txt, map3.txt)
+	Thay đổi input đầu vào theo đúng định dạng, save và chạy chương trình
